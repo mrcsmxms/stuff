@@ -7,7 +7,7 @@ sudo wget https://raw.githubusercontent.com/mrcsmxms/stuff/master/login_message/
 </code>
 <br>
 <code>
-sudo bash /home/pi/installLoginMSG.sh
+sudo bash installLoginMSG.sh
 </code>
 <br>
 #Editing
