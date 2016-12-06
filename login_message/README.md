@@ -3,7 +3,9 @@
 download and execute the <i>installLoginMSG.sh</i> with the command
 <br>
 <code>
-sudo wget https://raw.githubusercontent.com/mrcsmxms/stuff/master/installLoginMSG.sh</code><br>
+https://raw.githubusercontent.com/mrcsmxms/stuff/master/login_message/installLoginMSG.sh
+</code>
+<br>
 <code>
 sudo bash /home/pi/installLoginMSG.sh
 </code>
